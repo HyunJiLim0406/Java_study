@@ -1,5 +1,3 @@
-package chap6;
-
 public class Exercise6_22 {
     static boolean isNumber(String str) {
         if (str == null || str.equals(""))

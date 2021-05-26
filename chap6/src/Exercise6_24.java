@@ -1,5 +1,3 @@
-package chap6;
-
 public class Exercise6_24 {
     static int abs(int value) {
         return Math.abs(value);

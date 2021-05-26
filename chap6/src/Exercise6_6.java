@@ -1,5 +1,3 @@
-package chap6;
-
 class MyPoint{
     int x, y;
 

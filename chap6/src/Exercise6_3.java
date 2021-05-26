@@ -1,5 +1,3 @@
-package chap6;
-
 class Student {
     String name;
     int ban, no, kor, eng, math;

@@ -1,5 +1,3 @@
-package chap6;
-
 public class Exercise6_20 {
     static int[] shuffle(int[] arr) {
         if (arr == null || arr.length == 0)

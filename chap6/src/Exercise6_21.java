@@ -1,5 +1,3 @@
-package chap6;
-
 class MyTv {
     boolean isPowerOn;
     int channel;

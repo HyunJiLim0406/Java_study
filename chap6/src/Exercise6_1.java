@@ -1,5 +1,3 @@
-package chap6;
-
 class SutdaCard {
     int num;
     boolean isKwang;
