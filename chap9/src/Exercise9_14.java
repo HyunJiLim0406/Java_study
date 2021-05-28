@@ -27,7 +27,7 @@ class Exercise9_14 {
                 if (m.find())
                     list.add(phoneNum);
             }
-            
+
             if (list.size() > 0) {
                 System.out.println(list);
                 list.clear();
